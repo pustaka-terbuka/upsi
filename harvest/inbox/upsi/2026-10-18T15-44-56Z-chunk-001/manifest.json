@@ -1,0 +1,19 @@
+{
+  "schema_version": "1.0",
+  "source_code": "upsi",
+  "source_name": "Perpustakaan Tuanku Bainun (Universiti Pendidikan Sultan Idris)",
+  "source_base_url": "https://pustaka.upsi.edu.my/",
+  "terms_url": "https://pustaka.upsi.edu.my/",
+  "terms_verified_on": "2026-10-18",
+  "harvester_name": "upsi-koha-harvester",
+  "harvester_version": "1.0.0",
+  "run_id": "2026-10-18T15-44-56Z-chunk-001",
+  "mode": "full",
+  "started_at": "2026-10-18T15:48:58.809Z",
+  "finished_at": "2026-10-18T15:48:58.809Z",
+  "record_count": 0,
+  "error_count": 0,
+  "status": "partial",
+  "user_agent": "PustakaTerbuka-Harvester/1.0 (+https://github.com/pustaka-terbuka/upsi; contact@pustakaterbuka.org)",
+  "notes": "UPSI harvest completed. Total: 0 records."
+}
